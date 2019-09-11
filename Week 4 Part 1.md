@@ -55,6 +55,6 @@ Together, these two reasons make functions extremely useful--practically essenti
 
 For this assignment please include the exercises that you did in the book for the pages in this lesson.
 
-As well think of one of your favorite songs. One that has a chorus. Write out print statements for each line in the song. Then look back and see how you can simplify it using functions. Turn in your song example with the exercises above.s
+Also, think of one of your favorite songs. One that has a chorus. Write out print statements for each line in the song. Then look back and see how you can simplify it using functions. Turn in your song example with the exercises above.s
 
 
